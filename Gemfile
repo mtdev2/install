@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 group :test do
-  gem "rubocop"
+  gem "rubocop", ">= 0.85.1"
 end
